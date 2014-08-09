@@ -1,0 +1,7 @@
+- platform deps
+  - os.shell
+
+brew install 
+apt-get install
+cinst 
+- detect 
